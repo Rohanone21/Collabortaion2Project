@@ -12,6 +12,9 @@ namespace Collabortaion2Project
         {
             Console.WriteLine("Rohan Commit");
             Console.WriteLine("GithubPush");
+            Console.WriteLine("Shriyash commit");
+            Console.WriteLine("new changes");
+            Console.WriteLine("this is mohit code");
         }
     }
 }
