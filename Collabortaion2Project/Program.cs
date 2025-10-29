@@ -10,6 +10,8 @@ namespace Collabortaion2Project
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Rohan Commit");
+            Console.WriteLine("GithubPush");
         }
     }
 }
